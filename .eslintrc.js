@@ -17,6 +17,7 @@ module.exports = {
 		"vue"
 	],
 	"rules": {
+		"comma-dangle": ["error", "never"],
 		"indent": ["error", "tab"],
 		"linebreak-style": ["error", "unix"],
 		"quotes": ["error", "double"],
