@@ -6,7 +6,7 @@ This template comes with:
 - [`eslint-plugin-vue`](https://eslint.vuejs.org/) for linting purposes
 - [`actions-gh-pages`](https://github.com/peaceiris/actions-gh-pages) for automatic deployment to `gh-pages` branch
 
-Click [here](https://github.com/cheeze2000/vue-template) for the preview of the app.
+Click [here](https://cheeze2000.github.io/vue-template/) for the preview of the app.
 
 If you want to use this template, here are the things you need to change:
 - `LICENSE`
