@@ -3,7 +3,7 @@ This template comes with:
 - a simple Vue 3 + Vite app
 - [`vite-plugin-pages`](https://github.com/hannoeru/vite-plugin-pages) for easy routing
 - `eslint` for linting purposes
-- automatic deployment to `gh-pages` branch
+- [`actions-gh-pages`](https://github.com/peaceiris/actions-gh-pages) for automatic deployment to `gh-pages` branch
 
 Click [here](https://github.com/cheeze2000/vue-template) for the preview of the app.
 
