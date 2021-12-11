@@ -1,6 +1,7 @@
 # cheeze2000/vue-template
 This template comes with:
 - a simple Vue 3 + Vite app
+- [`tailwindcss`](https://tailwindcss.com/)
 - [`vite-plugin-pages`](https://github.com/hannoeru/vite-plugin-pages) for easy routing
 - `eslint` for linting purposes
 - [`actions-gh-pages`](https://github.com/peaceiris/actions-gh-pages) for automatic deployment to `gh-pages` branch
