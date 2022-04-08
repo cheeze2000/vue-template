@@ -20,6 +20,7 @@ module.exports = {
 		"comma-dangle": ["error", "never"],
 		"indent": ["error", "tab"],
 		"linebreak-style": ["error", "unix"],
+		"no-trailing-spaces": "error",
 		"quotes": ["error", "double"],
 		"semi": ["error", "always"],
 		"sort-imports": ["error", { allowSeparatedGroups: true }],
